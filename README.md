@@ -55,11 +55,11 @@ After the copy process finishes:
 1. Insert the prepared USB flash drive into your **RK3318 TV Box**.
 2. Power on the TV Box.
 3. The **Multitool** menu should appear, allowing you to:
-   - Choose Backup flash (if need)
-   - Choose Erase flash (if needed)
+   - Backup flash (if need)
+   - Erase flash (if needed)
    - Choose Burn Image to flash
    - Choose previouse image you copy like Armbian_XX.xx_Rk3318.img.xz then OK
-   - Wait until proccess complete the OK
+   - Wait until proccess complete then OK
    - You will see main menu then Shutdown
    - Eject USB flash drive
    - Power on the TV Box
