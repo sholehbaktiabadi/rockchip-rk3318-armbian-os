@@ -15,6 +15,7 @@ This guide explains how to prepare and flash an **Armbian image** to a Rockchip 
 - Files to download:
   - `multitool.xz`
   - The **Armbian image** for Rockchip RK3318 (e.g., `Armbian_XX.xx_Rk3318.img.xz`)
+  - Find Here [Release Page](https://github.com/sholehbaktiabadi/rockchip-rk3318-armbian-os/releases)
 
 ---
 
