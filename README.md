@@ -24,6 +24,7 @@ This guide explains how to prepare and flash an **Armbian image** to a Rockchip 
 Download both:
 - `multitool.xz`
 - Your preferred **Armbian** image for **Rockchip RK3318**.
+- Find here [release](https://github.com/sholehbaktiabadi/rockchip-rk3318-armbian-os/releases)
 
 ---
 
@@ -53,8 +54,8 @@ After the copy process finishes:
 1. Insert the prepared USB flash drive into your **RK3318 TV Box**.
 2. Power on the TV Box.
 3. The **Multitool** menu should appear, allowing you to:
-   - Choose backup flash (if need)
-   - Choose Erase flash (if need)
+   - Choose Backup flash (if need)
+   - Choose Erase flash (if needed)
    - Choose Burn Image to flash
    - Choose previouse image you copy like Armbian_XX.xx_Rk3318.img.xz then OK
    - Wait until proccess complete the OK
@@ -70,6 +71,15 @@ After the copy process finishes:
 ## ✅ Done!
 You’ve successfully created a **bootable Armbian image** for your **Rockchip RK3318 TV Box** using **Multitool**.  
 You can now proceed with installing or testing Armbian on your device.
+
+---
+### Donate here
+
+Indonesian citizen:
+<img width="290" height="290" alt="saweria" src="https://github.com/user-attachments/assets/c9a140bb-ddc0-4f50-9b94-06921950011c" />
+
+World Wide:
+<img width="290" height="290" alt="buymecoffe" src="https://github.com/user-attachments/assets/12d57ac0-a5c6-4b6e-a390-75cfbe616907" />
 
 ---
 
