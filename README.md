@@ -76,9 +76,11 @@ You can now proceed with installing or testing Armbian on your device.
 ### Donate here
 
 Indonesian citizen:
-<img width="290" height="290" alt="saweria" src="https://github.com/user-attachments/assets/c9a140bb-ddc0-4f50-9b94-06921950011c" />
+
+<img width="294" height="320" alt="Screenshot from 2025-11-13 13-36-52" src="https://github.com/user-attachments/assets/d11f2d69-dfd0-49b6-8c5d-49a68cbfb8ce" />
 
 World Wide:
+
 <img width="290" height="290" alt="buymecoffe" src="https://github.com/user-attachments/assets/12d57ac0-a5c6-4b6e-a390-75cfbe616907" />
 
 ---
