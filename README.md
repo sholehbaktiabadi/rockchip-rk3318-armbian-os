@@ -74,15 +74,12 @@ You’ve successfully created a **bootable Armbian image** for your **Rockchip R
 You can now proceed with installing or testing Armbian on your device.
 
 ---
-### Donate here
 
-Indonesian citizen:
+### 💖 Donate here
 
-<img width="294" height="320" alt="Screenshot from 2025-11-13 13-36-52" src="https://github.com/user-attachments/assets/d11f2d69-dfd0-49b6-8c5d-49a68cbfb8ce" />
-
-World Wide:
-
-<img width="290" height="290" alt="buymecoffe" src="https://github.com/user-attachments/assets/12d57ac0-a5c6-4b6e-a390-75cfbe616907" />
+| Indonesian Citizen | World Wide |
+|:------------------:|:-----------:|
+| <img width="294" height="320" alt="QRIS" src="https://github.com/user-attachments/assets/d11f2d69-dfd0-49b6-8c5d-49a68cbfb8ce" /> | <img width="290" height="290" alt="Buy Me a Coffee" src="https://github.com/user-attachments/assets/12d57ac0-a5c6-4b6e-a390-75cfbe616907" /> |
 
 ---
 
