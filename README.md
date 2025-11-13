@@ -53,8 +53,8 @@ After the copy process finishes:
 1. Insert the prepared USB flash drive into your **RK3318 TV Box**.
 2. Power on the TV Box.
 3. The **Multitool** menu should appear, allowing you to:
-   - Backup flash (if need)
-   - Erase flash (if needed)
+   - Backup flash (if needed)
+   - Erase flash
    - Choose Burn Image to flash
    - Choose previouse image you copy like Armbian_XX.xx_Rk3318.img.xz then OK
    - Wait until proccess complete then OK
@@ -77,7 +77,7 @@ You can now proceed with installing or testing Armbian on your device.
 
 | Indonesian Citizen | World Wide |
 |:------------------:|:-----------:|
-| <img width="294" height="320" alt="QRIS" src="https://github.com/user-attachments/assets/d11f2d69-dfd0-49b6-8c5d-49a68cbfb8ce" /> | <img width="290" height="290" alt="Buy Me a Coffee" src="https://github.com/user-attachments/assets/12d57ac0-a5c6-4b6e-a390-75cfbe616907" /> |
+| <img width="290" height="290" alt="QRIS" src="https://github.com/user-attachments/assets/d11f2d69-dfd0-49b6-8c5d-49a68cbfb8ce" /> | <img width="290" height="290" alt="Buy Me a Coffee" src="https://github.com/user-attachments/assets/12d57ac0-a5c6-4b6e-a390-75cfbe616907" /> |
 
 ---
 
