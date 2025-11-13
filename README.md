@@ -25,7 +25,7 @@ This guide explains how to prepare and flash an **Armbian image** to a Rockchip 
 Download both:
 - `multitool.xz`
 - Your preferred **Armbian** image for **Rockchip RK3318**.
-- Find here [release](https://github.com/sholehbaktiabadi/rockchip-rk3318-armbian-os/releases)
+- Find here [release page](https://github.com/sholehbaktiabadi/rockchip-rk3318-armbian-os/releases)
 
 ---
 
@@ -41,7 +41,6 @@ Download both:
 ### 3. Copy the Armbian Image
 1. Open the **MULTITOOL** partition.
 2. Inside, you’ll find a folder named `images`.
-3. Copy the downloaded **Armbian image file** (e.g., `Armbian_XX.xx_Rk3318.img.xz`) into the `images` folder.
 
 ---
 
