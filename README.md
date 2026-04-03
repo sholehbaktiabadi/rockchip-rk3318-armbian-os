@@ -6,7 +6,7 @@ This guide explains how to prepare and flash an **Armbian image** to a Rockchip 
 
 ## 🧰 Requirements
 
-- A **USB flash drive** (at least 4 GB)
+- A **MicroSD** (at least 4 GB)
 - A **computer** with Windows, Linux, or macOS
 - Tools for flashing images, such as:
   - [Balena Etcher](https://etcher.balena.io/)
@@ -28,10 +28,10 @@ Download both:
 
 ---
 
-### 2. Create a Bootable Multitool USB Drive
+### 2. Create a Bootable Multitool in MicroSD
 1. Open **Balena Etcher**, **Rufus**, or **Disk Imager**.
 2. Select the downloaded file `multitool.xz` as the source.
-3. Choose your **USB flash drive** as the target.
+3. Choose your **MicroSD** as the target.
 4. Start the flashing process.
 5. Once the process is complete, a new partition called **MULTITOOL** should appear on your computer.
 
@@ -46,12 +46,12 @@ Download both:
 
 ### 4. Safely Eject the Flash Drive
 After the copy process finishes:
-- Eject the USB flash drive safely from your computer.
+- Eject the MicroSD safely from your computer.
 
 ---
 
 ### 5. Boot the TV Box
-1. Insert the prepared USB flash drive into your **RK3318 TV Box**.
+1. Insert the prepared MicroSD into your **RK3318 TV Box**.
 2. Power on the TV Box.
 3. The **Multitool** menu should appear, allowing you to:
    - Backup flash (if needed)
@@ -60,7 +60,7 @@ After the copy process finishes:
    - Choose previouse image you copy like Armbian_XX.xx_Rk3318.img.xz then OK
    - Wait until proccess complete then OK
    - You will see main menu then Shutdown
-   - Eject USB flash drive
+   - Eject MicroSD
    - Power on the TV Box
    - Setup your username, password etc
 
