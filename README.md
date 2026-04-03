@@ -44,7 +44,7 @@ Download both:
 
 ---
 
-### 4. Safely Eject the Flash Drive
+### 4. Safely Eject the MicroSD
 After the copy process finishes:
 - Eject the MicroSD safely from your computer.
 
